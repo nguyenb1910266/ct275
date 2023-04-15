@@ -12,4 +12,5 @@ $PDO = (new \CT275\Labs\PDOFactory())->create([
     'dbname' => 'ct275',
     'dbuser' => 'root',
     'dbpass' => ''
+    
 ]);

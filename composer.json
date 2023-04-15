@@ -1,5 +1,5 @@
 {
-    "require": {
+    "require":{
         "vlucas/phpdotenv": "^5.4",
         "phpmailer/phpmailer": "^6.6",
         "gregwar/captcha": "^1.1"
