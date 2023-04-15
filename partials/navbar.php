@@ -11,7 +11,7 @@
         <nav class="navbar navbar-expand-md navbar-light bg-dark">
         <div class="container text-light">
             <a class="navbar-brand d-flex h-100" href="index.php" style="wight: 150px;">
-                <img src="img/LOGOv2.png" alt="" width="15%">
+                <img src="img/LOGOv2.png" alt="" width="45%">
                 
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
