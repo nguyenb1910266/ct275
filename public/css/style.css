@@ -1,0 +1,29 @@
+.card{
+    margin-top: 10px;
+}
+
+body{
+    background-color: #f4f4f4 !important;
+}
+
+#frm{
+    background-color: white;
+    box-shadow: 0px 4px 6px gray;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.backtotop{
+    position: fixed !important;
+    position: absolute;
+    z-index: 100;
+    padding: 10px;
+    bottom: 5px;
+    right: 10px;
+    margin-right: 300px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
